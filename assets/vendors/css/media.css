@@ -1,0 +1,289 @@
+@media (max-width: 1024px){
+    header{
+        background-color: #016A70;
+        padding:12px;
+    }
+    .intro{
+        height:auto;
+    }
+
+/*.bg-video-wrap video {
+    height: 400px;
+    min-height: 400px;
+    object-fit: contain
+}*/
+.bg-video-wrap .overlay,.bg-video-wrap{
+    height: 330px;
+}
+.bg-video-wrap h1 {
+    top: 34%;
+    font-size: 16px;
+}
+.bg-video-wrap p {
+    top: 49%;
+    font-size: 14px;
+}
+.bg-video-wrap .links{
+    bottom:12%;
+}
+.bg-video-wrap .links {
+    left: 33%;
+    /*-webkit-transform: translateX(-50%);
+    transform: translateX(-24%);*/
+    font-size: 14px;
+}
+.bg-video-wrap .links a {
+    font-size: 12px;
+}
+.bg-video-wrap {
+    background: none;
+}
+.about-center{
+    margin-top:0rem;
+}
+.about-center .title {
+    
+    margin-bottom: 0px; 
+    padding: 2rem 0rem;
+}
+.about-center .content{
+    margin-top:0rem;
+}
+.fields .d-flex{
+    display: block !important
+}
+.News .card{
+    margin-bottom:10px;
+}
+.parteners {
+    padding: 2rem 2rem;
+}
+.top-footer .contact-links,.top-footer .contact-links li{
+display:  block !important;
+}
+.Center-publications #owl-carousel2 .btn-secondary{
+    display: flex;
+    align-items: center;
+}
+.observer_participants .pagination ul li{
+    margin:0px 10px;
+}
+.Center-publications #owl-carousel2 .btn-secondary img{
+    margin:0px 5px;
+}
+.New-details .card{
+    width:100%;
+}
+/* .directors .director-img{
+    width:100%;
+} */
+.bottom-footer img{
+    width:150px;
+    display: table;
+    margin: auto;
+}
+.Center-publications #owl-carousel2 .card img {
+    width: 100%;
+
+    margin: 10px 0px;
+}
+.bottom-footer p{
+    text-align: center;
+    font-size:12px;
+    margin-top:10px;
+}
+.navbar-toggler i{
+    color:#fff
+}
+.numbers::after{
+    content: none;
+}
+.numbers{
+    height:100%
+}
+.about-field .col-lg-4{
+    margin-top:0rem;
+
+}
+.about-field .field2-img {
+    z-index: 2;
+    margin-top: -148px;
+    margin-left: 30px;
+    margin-right: -18px;
+}
+.about-field .field-img{
+    margin-right:0px;
+}
+.numbers{
+    border-radius:0px;
+}
+.intro .content{
+    padding-top:4rem;
+}
+.intro p,.manager-word p{
+    font-size:10px;
+}
+.intro h5{
+    font-size:19px;
+}
+.intro,.directors,.international-recognition{
+    border-radius:0px;
+}
+.intro .light-btn,.directors .light-btn,.international-recognition .light-btn,.importance .light-btn{
+    font-size:11px;
+}
+.directors .head-title{
+    text-align: center;
+}
+.directors img{
+    height:200px;
+}
+.international-recognition .second-text{
+    width:100%
+}
+.accordion-steps ul{
+    display: block;
+}
+.accordion-steps ul .arrow ,.accordion ul .arrow{
+    margin-top: 0px;
+    text-align: center;
+    margin: auto;
+    transform: rotate(-90deg);
+}
+.accreditation-Services .card {
+    width:100%
+}
+.accredition .cards{
+    position: relative;
+  width:100%;
+    transform: inherit;
+    left: inherit;
+    
+}
+.accredition .cards .card{
+    height:inherit;
+    margin-bottom:10px;
+}
+.support{
+    padding-top:2rem;
+}
+.importance ul{
+    margin: auto;
+    display: table;
+}
+.importance .cards .card{
+    width:100%;
+}
+.documents .cards,.tab-content .d-flex,.documents .document{
+    display:  block !important;
+}
+.documents .document,.documents .cards{
+    height:100%;
+}
+.documents .document{
+    padding:10px;
+}
+.tab-content{
+    margin-top:10px;
+}
+.bottom-footer .d-flex{
+    display:inline-block !important;
+}
+.Center-publications #owl-carousel2 .card{
+    width:100%
+}
+.Center-publications #owl-carousel2 .card .content h3{
+    font-size:13px;
+    width:100%;
+}
+.Center-publications #owl-carousel2 .card .content p{
+    width:100%;
+    font-size:11px;
+}
+.about-service .cards .box2 .document{
+    padding:2px;
+}
+.accordion ul{
+    display: block;
+}
+.about-service .cards .box2 .document h6{
+    font-size:10px;
+}
+.serv-sac {
+    bottom: 3%;
+}
+.serv-sac .btn {
+    padding: 10px 9px;
+}
+.fields .card{
+    margin-bottom:10px;
+}
+.laboratory-accreditation .light-btn,
+.directors2 .light-btn,
+.intro .light-btn, .directors .light-btn, .international-recognition .light-btn, .importance .light-btn,.accordion-steps .light-btn{
+    padding:11px 8px;
+    font-size:10px;
+}
+.parteners .brands img{
+    width:100px;
+    height:100px
+}
+.about-service .cards .card{
+    height:98%
+}
+.goals #owll .item{
+    border-right:0px;
+    border-left:0px;
+}
+.directors .director-img{
+    margin: auto;
+}
+.parteners2 .owl-nav span,#owl .owl-nav span{
+    font-size:40px;
+}
+.accredition .cards .card p {
+    font-size: 12px;
+}
+.accredition .cards .card h4 {
+    font-size: 14px;
+
+}
+.News{
+    padding-bottom:2rem;
+}
+.documents .document {
+    min-height: 100px;
+    margin-bottom: 10px;
+    width:100%;
+    display: flex !important;
+}
+
+
+/* [dir=rtl]*{
+   
+    } */
+}
+
+
+@media only screen and (max-width: 1200px) and (min-width: 992px) {
+    
+
+    header .nav-item {
+        margin: 0 4px;
+    }
+
+    header .nav-link {
+        font-size: 8px;
+       
+    }
+}
+
+@media (max-width: 1024px) {
+    .full-arac .intro-arac {
+        padding: 100px 0 0px 0;
+    }
+        .full-arac .intro-arac .light-btn {
+           
+            font-size: 15px;
+        }
+}

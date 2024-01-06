@@ -1,0 +1,280 @@
+.ml-auto {
+  margin-right: auto;
+  margin-left: 0 !important;
+}
+
+html {
+  direction: rtl;
+  overflow-x: hidden;
+}
+
+.about-field {
+  background-position: center left;
+}
+
+.about-center .title, .about-field .content a, .News .card .over-lay .content-field img, .bg-video-wrap .links a img {
+  float: right;
+}
+
+.accredition-list .accredition-title h6 {
+  text-align: right;
+}
+
+.support {
+  padding-top: 9rem;
+}
+
+.form-group label {
+  text-align: right;
+  float: right;
+}
+
+.Center-publications #owl-carousel2 .card .content {
+  direction: rtl;
+}
+
+.Center-publications #owl-carousel2 .btn-secondary {
+  float: right;
+}
+
+.Center-publications #owl-carousel2 .card .content h3 {
+  text-align: right;
+}
+
+.Center-publications #owl-carousel2 .card .content p {
+  text-align: right;
+}
+
+.bg-video-wrap p {
+  font-size: 37px;
+}
+
+.goals #owll .item {
+  direction: rtl;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  margin-right: 0px !important;
+}
+header .nav-item {
+    margin: 0 5px;
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 992px) {
+
+
+    header .nav-item {
+        margin: 0 4px;
+    }
+
+    header .nav-link {
+        font-size: 9px;
+    }
+}
+
+header .navbar-brand img {
+  width: 170px;
+}
+
+.bottom-footer img {
+  float: right;
+}
+
+.about-field .content p, .about-field .content a, .about-field .title, .News .card, .about-center .title span {
+  text-align: right;
+}
+
+.about-center .content p {
+  text-align: justify;
+}
+
+.accreditation-Services .card .bottom-card .btn-outline-secondary {
+  border-left: 1px solid #737373;
+  border-right: 0px;
+}
+
+.top-footer .contact-links, .top-footer .contact-links li {
+  text-align: right;
+}
+
+.bg-video-wrap {
+  direction: ltr;
+}
+
+.about-center .title span {
+  display: block;
+}
+
+.about-field .content p {
+  text-align: justify !important;
+}
+
+.about-field .field-img {
+  margin-right: 70px;
+}
+
+.intro .content, .directors .head-title {
+  text-align: right;
+}
+
+.intro p, .accredition-list .accredition-content p {
+  text-align: justify;
+}
+
+.accredition-title, .accredition-list .accredition-content ul li {
+  text-align: right;
+}
+
+.programes .cards .login-btn {
+  float: left;
+}
+
+.programes .cards .accredition-list label {
+  display: block;
+  text-align: right;
+}
+
+.accreditation-Services .card .bottom-card .btn-outline-secondary {
+  border-radius: 0px 0px 20px 0px;
+}
+
+.accreditation-Services .card .bottom-card .btn-outline-success {
+  border-radius: 0px 0px 0px 20px;
+}
+
+.accordion-steps ul .arrow, .accordion ul .arrow {
+  -webkit-transform: rotate(0deg);
+          transform: rotate(0deg);
+}
+
+.bottom-footer img {
+  margin-right: -15px;
+}
+
+.bottom-footer p {
+  float: left;
+}
+
+.about-service .cards .box {
+  display: inherit;
+}
+
+.about-service .cards .box2 li {
+  text-align: right;
+}
+
+.Standard-Specifications h5, .Standard-Specifications h6, .definitions h5, .definitions .definition-content h6 {
+  text-align: right;
+}
+
+.definitions .definition-content p {
+  text-align: justify;
+}
+
+.accredition-content ul {
+  display: block !important;
+  text-align: right;
+}
+
+.documents .document {
+  padding: 30px 0px;
+}
+
+.News .content {
+  text-align: center !important;
+}
+
+.documents .nav-pills button {
+  font-size: 14px !important;
+}
+
+.more img {
+  float: left !important;
+  vertical-align: middle;
+  margin: 1px 3px;
+  width: 18px !important;
+}
+
+.about-service .cards .box img {
+  margin-left: 5px;
+  margin-right: 0px;
+}
+
+.about-service .cards .box2 li {
+  padding-right: 7px;
+  padding-left: 0px;
+}
+
+.about-service .cards .box2 .col-lg-2 {
+  border-left: 2px solid #DFDFDF;
+  border-right: 0px;
+}
+
+.about-service .cards .box2 .col-lg-2:last-child {
+  border-left: 0px;
+}
+
+.about-service .cards .box2 .document {
+  padding-left: 10px;
+  margin-right: 0px;
+}
+
+/*.documents .document {
+  min-height: 285px;
+}*/
+
+.serv-sac .btn img, .about-field .content a img, .News .Link img, .programes .cards .login-btn, .programes .Last-content a img, .more img, .programes .cards .login-btn img,
+.Center-publications #owl-carousel2 .btn-secondary img {
+  -webkit-transform: rotate(0deg);
+          transform: rotate(0deg);
+}
+
+.about-service .cards .box2 .document {
+  border-left: 2px solid #DFDFDF;
+  border-right: 0px;
+}
+
+.documents .nav-pills {
+  background-color: #F2F2F2;
+}
+
+.about-service .cards .box2 .document:last-child {
+  border-left: 0px;
+  border-right: 0px;
+}
+
+.serv-sac .btn img {
+  float: left;
+  -webkit-transform: rotate(0deg);
+          transform: rotate(0deg);
+}
+
+.serv-sac .btn img {
+  float: left;
+  -webkit-transform: rotate(180deg);
+  transform: rotate(0deg);
+}
+
+.News .Link, .fields .over-lay .content-field img {
+  -webkit-transform: rotate(0deg);
+          transform: rotate(0deg);
+}
+
+.nav-link {
+  text-align: right;
+}
+
+.bg-video-wrap .links a img {
+  -webkit-transform: rotate(0deg);
+          transform: rotate(0deg);
+}
+.owl-stratigy .owl-stage-outer {
+    direction: rtl;
+}
+.brands .owl-stage-outer {
+    direction: rtl;
+}
+.brands .owl-nav {
+    direction: ltr;
+}
+    /*# sourceMappingURL=main-rtl.css.map */
